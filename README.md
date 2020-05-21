@@ -19,4 +19,4 @@ Terms
 For other information please visit the software Tuatara - Help Contents
 
 
-Reference: Tags: CS Core, Self-Learning, Inspired by school assignment
+Tags: CS Core, Self-Learning, Inspired by school assignment
